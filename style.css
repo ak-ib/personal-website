@@ -1,0 +1,112 @@
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+body{
+    margin-top: 70px;
+    margin-left: 5px;
+}
+img{
+    height: 500px;
+    padding-left: 15%;
+}
+.name{
+    color: rgb(18, 17, 122);
+    font-size: 200%;
+}
+.intro{
+    margin-top: 130px;
+    /* margin-left: 100px; */
+}
+.intro1{
+    
+    font-size: 120%;
+}
+.intro3{
+    margin-top: 130px;
+    text-align: left;
+    font-weight: 1000;
+}
+.intro4{
+    margin-right: 100px;
+    font-size: 120%;
+    font-weight: 200;
+}
+.akib{
+    width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;  
+}
+.main{
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+}
+.main2{
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.contact{
+    padding-left: 100px;
+    text-decoration: none;
+    background-color: #4c77af;
+    padding: 8px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.contact1{
+    background-color: rgb(6, 6, 104);
+}
+.latest{
+    width: 30%;
+    float: left;
+    margin: 0 10px;
+    box-shadow: 5px 5px 5px chocolate;
+    border-radius: 10px;   
+}
+.latest img{
+    width: 70%;
+    height: 50%;
+}
+#work1{
+    border-left: 6px solid rgb(250, 114, 239);
+}
+#work2{
+    border-left: 6px solid rgb(156, 32, 187);
+}
+#work3{
+    border-left: 6px solid rgb(51, 12, 122);
+}
+.latest-work{
+    height: 300px;
+    padding-top: 30px;
+    background-image: url("image/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+#lw{
+    text-align: center;
+    color: rgb(14, 2, 58);
+    font-size: 200%;
+    font-weight: 1200;
+}
+.mail{
+    text-align: center;
+    height: 80px;
+    background-color: #4df398;
+    width: 50%;
+    margin-left: 23%;
+    padding-top: 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    margin-top: 80px;
+}
+#mail{
+    text-decoration: none;
+    color: white;
+}
+#footer{
+    text-align: center;
+    margin-top: 100px;
+}
